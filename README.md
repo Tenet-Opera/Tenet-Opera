@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/287f307d-0b0a-4c15-8dff-ad126e9af6d8/thumbnail" >
+</p>
+
 <!--
 **Tenet-Opera/Tenet-Opera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
