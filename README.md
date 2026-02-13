@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Data Scientist, currently learning time series related ANN. Currently studying my Master's Degree at University of Guadalajara, Mexico.
+
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/287f307d-0b0a-4c15-8dff-ad126e9af6d8/thumbnail" >
 </p>
